@@ -23,3 +23,6 @@ A aula e o laboratório me possibilitou Descrever a finalidade do Azure Policy, 
 
 # Resumo da aula Ferramentas de Gerenciamento e Implantação Azure e do laboratório Ferramentas de Implantação na Azure
 A aula e o laboratório me possibilitou entender mais sobre o Portal do Azure, sobre Azure Cloud Shell, incluindo também a CLI do Azure e o Azure PowerShell, me ajudou a entender o que é Azure Arc e além de Descrever o ARM (Azure Resource Manager) e modelos do ARM do Azure.
+
+# Resumo da última aula e do último lab de Azure na DIO - Ferramentas de Monitoramento Azure e Monitoramento Inteligente com o Azure
+A aula e o laboratório me trouxe o entendimento sobre a finalidade do Assistente do Azure e da Integridade do Serviço do Azure, também trouxe clareza sobre o Azure Monitor, incluindo Azure Log Analytics, Alertas do Azure Monitor e Application Insights.
