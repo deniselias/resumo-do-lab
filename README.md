@@ -11,3 +11,6 @@ As aulas me possibilitaram a conhecer sobre máquinas virtuais no Azure, iniciar
 
 # Resumo das aulas Armazenamento do Azure e Dominando o Armazenamento na Azure
 A aula e o laboratório me possibilitou a Comparar os serviços de armazenamento do Azure, ver sobre as Opções de migração, incluindo as Migrações para Azure e o Azure Data Box, Descrever as camadas de armazenamento, opções de redundância, opções de conta de armazenamento e os tipos de armazenamento.
+
+# Resumo das aulas Identidade, Acesso e Segurança e Entendendo sobre Segurança e Identidade na Azure
+A aula e o laboratório me possibilitou a entender sobre um Diretório no Azure, incluindo o Microsoft Entra ID e o Microsoft Entra Domain Services, também aprendi sobre Métodos de autenticação no Azure, incluindo SSO, MFA e sem senha, sobre Identidades externas e o acesso de convidado no Azure e por último sobre Acesso Condicional do Entra.
