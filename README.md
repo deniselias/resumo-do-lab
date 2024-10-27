@@ -15,8 +15,11 @@ A aula e o laboratório me possibilitou a Comparar os serviços de armazenamento
 # Resumo das aulas Identidade, Acesso e Segurança e Entendendo sobre Segurança e Identidade na Azure
 A aula e o laboratório me possibilitou a entender sobre um Diretório no Azure, incluindo o Microsoft Entra ID e o Microsoft Entra Domain Services, também aprendi sobre Métodos de autenticação no Azure, incluindo SSO, MFA e sem senha, sobre Identidades externas e o acesso de convidado no Azure e por último sobre Acesso Condicional do Entra.
 
-# Resumo das aulas do Módulo 3 - Gerenciamento de Custos na Azure e o laboratório Otimizando Custos no Azure
+# Resumo da aula do Módulo 3 - Gerenciamento de Custos na Azure e o laboratório Otimizando Custos no Azure
 A aula e o laboratório me possibilitou a entender basicamente sobre os Fatores que podem afetar os custos no Azure, a Calculadora de preços vs TCO, a Ferramenta de Gerenciamento de Custos do Azure e Descrever a finalidade das marcas.
 
-# Resumo das aulas Primeiros Passos com Governança e Conformidade na Azure e do laboratório Gerenciando Políticas em Acessos Azure
+# Resumo da aula Primeiros Passos com Governança e Conformidade na Azure e do laboratório Gerenciando Políticas em Acessos Azure
 A aula e o laboratório me possibilitou Descrever a finalidade do Azure Policy, bloqueios de recursos, entender o Portal de Confiança do Serviço e o Microsoft Purview além de toda governança sobre Acesso e Segurança.
+
+# Resumo da aula Ferramentas de Gerenciamento e Implantação Azure e do laboratório Ferramentas de Implantação na Azure
+A aula e o laboratório me possibilitou entender mais sobre o Portal do Azure, sobre Azure Cloud Shell, incluindo também a CLI do Azure e o Azure PowerShell, me ajudou a entender o que é Azure Arc e além de Descrever o ARM (Azure Resource Manager) e modelos do ARM do Azure.
