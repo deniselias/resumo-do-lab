@@ -17,3 +17,6 @@ A aula e o laboratório me possibilitou a entender sobre um Diretório no Azure,
 
 # Resumo das aulas do Módulo 3 - Gerenciamento de Custos na Azure e o laboratório Otimizando Custos no Azure
 A aula e o laboratório me possibilitou a entender basicamente sobre os Fatores que podem afetar os custos no Azure, a Calculadora de preços vs TCO, a Ferramenta de Gerenciamento de Custos do Azure e Descrever a finalidade das marcas.
+
+# Resumo das aulas Primeiros Passos com Governança e Conformidade na Azure e do laboratório Gerenciando Políticas em Acessos Azure
+A aula e o laboratório me possibilitou Descrever a finalidade do Azure Policy, bloqueios de recursos, entender o Portal de Confiança do Serviço e o Microsoft Purview além de toda governança sobre Acesso e Segurança.
